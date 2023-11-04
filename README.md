@@ -1,1 +1,0 @@
-# MyFirstDjangoProject_W3
